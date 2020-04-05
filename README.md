@@ -12,4 +12,4 @@
 - The microcontroller used was Atmel ATmega 2560.
 -	Software development in C/C++
 
-**_Video_**: [Video_Velocity-and-Yaw-Control-of-Robotics-Chassis](https://www.youtube.com/watch?v=VNMRVbsgje0&feature=youtu.be)
+**_Video_**: [Velocity-and-Yaw-Control-of-Robotics-Chassis](https://www.youtube.com/watch?v=VNMRVbsgje0&feature=youtu.be)
