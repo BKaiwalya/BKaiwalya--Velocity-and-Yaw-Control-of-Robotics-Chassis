@@ -3,7 +3,7 @@
 	Velocity-and-Yaw-Control-of-Robotics-Chassis
 </h1>
 
-**_Poster_**: [Velocity-and-Yaw-Control-of-Robotics-Chassis.pdf](https://github.com/BKaiwalya/BKaiwalya--Velocity-and-Yaw-Control-of-Robotics-Chassis/files/4433959/Velocity-and-Yaw-Control-of-Robotics-Chassis.pdf)
+**_Poster_**: [Velocity-and-Yaw-Control-of-Robotics-Chassis.pdf](https://github.com/BKaiwalya/BKaiwalya--Velocity-and-Yaw-Control-of-Robotics-Chassis/files/4433959/TBVICPOSFINAL_STG1.pdf)
 
 **_Details_**:
 -	Project involved precise locomotion analysis of a two wheeled robot.
